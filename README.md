@@ -3,7 +3,7 @@
 Sou um desenvolvedor apaixonado por tecnologia, transitando entre a performance do baixo nível e a versatilidade do desenvolvimento web moderno. Atualmente, foco em construir aplicações escaláveis e estudar Inteligência Artificial.
 
 ## 🚀 Sobre mim
-- 🎓 Estudante de Ciência da Computação / Engenharia de Software.
+- 🎓 Estudante de Ciência da Computação / Engenharia de Software na UFPE.
 - 💻 Foco atual: **Desenvolvimento Fullstack (Web)** & **Machine Learning**.
 - 🧠 Aprendendo constantemente sobre Arquitetura de Software e DevOps.
 
