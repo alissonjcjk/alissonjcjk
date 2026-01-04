@@ -32,13 +32,14 @@ Sou um desenvolvedor apaixonado por tecnologia, transitando entre a performance 
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alissonjcjk&theme=dracula" alt="alissonjcjk" />
-  
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonjcjk&layout=compact&theme=dracula&hide_border=true" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alissonjcjk&show_icons=true&theme=dracula" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alissonjcjk&layout=compact&theme=dracula" />
+</p>
+
 
 ---
 
