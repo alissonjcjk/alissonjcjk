@@ -34,8 +34,9 @@ Sou um desenvolvedor apaixonado por tecnologia, transitando entre a performance 
 
 <div align="center">
   <a href="https://github.com/alissonjcjk">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alissonjcjk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonjcjk&layout=compact&theme=dracula"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alissonjcjk&theme=dracula&hide_border=true" alt="GitHub Streak" />
+    <br/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonjcjk&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" />
   </a>
 </div>
 
