@@ -32,10 +32,12 @@ Sou um desenvolvedor apaixonado por tecnologia, transitando entre a performance 
 
 ## 📊 Estatísticas do GitHub
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=alissonjcjk&theme=dracula)
-
-
-
+<div align="center">
+  <a href="https://github.com/alissonjcjk">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alissonjcjk&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonjcjk&layout=compact&theme=dracula"/>
+  </a>
+</div>
 
 ---
 
