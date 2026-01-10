@@ -28,17 +28,7 @@ Sou um desenvolvedor apaixonado por tecnologia, transitando entre a performance 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
----
 
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <a href="https://github.com/alissonjcjk">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alissonjcjk&theme=dracula&hide_border=true" alt="GitHub Streak" />
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonjcjk&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" />
-  </a>
-</div>
 
 ---
 
